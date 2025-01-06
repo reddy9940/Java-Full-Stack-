@@ -16,7 +16,7 @@
            I am eager to use my technological expertise to further innovation and success in your company.
 
 ### Professional Experience
-Client: Synchrony Financials     	                                                                                                   July 2024-Present
+Client: Synchrony Financials     	                                                                                         July 2024-Present
 Role: Java Full Stack Developer
 Responsibilities:
 - Developing Java-based applications using best practices and coding standards, including APIs, services, and microservices.
