@@ -2,8 +2,6 @@
 ### Education
 - Master’s in Computer Science | Wright State University in Dayton, OH, USA
 - Bachelor’s in Computer Science and Engineering | Saveetha Engineering College, Chennai, Tamil Nadu, India
-
-
 ### Professional Summary
 - Over 6 years of expertise in the analysis, design, implementation, and testing of business online applications using Java/J2EE technology with a focus on Java8, Angular (v6–v14), Ionic5, and Spring Boot. Acknowledged for having excellent project management abilities and producing top-notch mobile and online applications.
 - Experience with Microservices and J2EE technologies such as Spring Boot, Spring Web Framework, Servlets, Hibernate, Web Services, and Gradle. Proficient in user interface design.
@@ -72,6 +70,22 @@ Responsibilities:
 -  Developed data flows from checkout to MMC store-based applications using SVN to meet client needs
 
 ### Technical Skills
+- Methodologies: Software development life cycle (SDLC), Agile development, Object-oriented design (OOD), test-driven development (TDD), Domain-driven design (DDD)
+- Programming Languages: Java, JavaScript, C++, SQL, Shell Scripting
+- Frontend Technologies: HTML5, React.js, Angular.js, Bootstrap, JSP, CSS3
+- Backend Technologies: Spring Framework (Spring boot, spring MVC, spring data JPA, spring security), Hibernate (ORM), RESTful APIs, Microservice Architecture
+- Messaging and Streaming Systems: Apache Kafka, Amazon SQS (Simple Queue Services), JMS, SQS, ActiveMQ
+- Database Technologies: Oracle, MySQL, Sybase, Azure SQL Database, PostgreSQL, Amazon RDS
+- Cloud Technologies: Amazon Web Services (EC2, S3, RDS, Cloud Formation, SQS, Lambda), Microsoft Azure (Azure SQL Database, Azure functions), Google Cloud Platform (GCP) [Google Kubernetes Engine (GKE), Big Query], Cloud Computing Models (Iaas, Paas, Saas)
+- Containerization and Orchestration. CI/CD: Jenkins, AWS code pipeline, Ansible, Kubernetes
+- Version Control Tools: Git, GitHub, Git flow, SVN
+- APIDocumentation and Testing Tools: Swagger/Open API, JUnit, TestNG, Selenium, Mockito
+- Code Quality and Monitoring: SonarQube, PMD, FindBugs, Log4J
+- Securityand Authentication: OAuth2, JWT (JSON Web Tokens), LDAP, SSL/TLS
+- Development Tools and IDEs: Jenkins, Docker Desktop, Eclipse, IntelliJ IDEA, Maven, Spring Tool Suite (STS)
+- Design Patterns and Architectural Styles: Adapter, Microservices, Service-Oriented (SOA), Model-View-Controller (MVC), Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS)
+- Web Services: API Design, Web Services Description Language (WSDL), SOAP security, WebSocket, gRPC
+- Other: Reactive programming, VSCode, XML, Appflow, Gradle, POSTMAN
 ### Certifications
 - Oracle Certified Associate, Java SE 8 Programmer (OCA)
 - AWS Certified Solutions Architect - Associate
