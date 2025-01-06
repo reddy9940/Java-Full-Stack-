@@ -14,7 +14,7 @@
            I am eager to use my technological expertise to further innovation and success in your company.
 
 ### Professional Experience
-Client: Synchrony Financials     	                                                                                         July 2024-Present
+Client: Synchrony Financials     	                                                                                 
 Role: Java Full Stack Developer
 Responsibilities:
 - Developing Java-based applications using best practices and coding standards, including APIs, services, and microservices.
@@ -27,7 +27,6 @@ Responsibilities:
 - Optimizing apps for performance, scalability, and responsiveness, including SQL queries and Java code. 
 - Implemented Spring JPA Repository for the application's persistence layer, which connects with the Oracle database extensive experience designing REST-based web services and consuming them as needed.
 Client: Nationwide                                                                                                           
-        Oct 2022–May 2024
 Role: Full Stack Java Developer
 Responsibilities:
 - Created and maintained an online and mobile application for a US healthcare customer. The technologies employed were Angular 14, Ionic 5, and Spring Boot. 
@@ -39,7 +38,6 @@ Responsibilities:
 - Served as the release coordinator for several complete production releases. 
 - Peer code reviews of modifications were carried out to guarantee high-quality code. 
 Client:TCS Health Care Project                                                                                               
-       Jan 2020-July 2022
 Role: System Engineer
 Responsibilities:
 - Engaged in the requirements gathering, analysis, design, development, and testing phases of the software development life cycle (SDLC) for applications created with the Agile approach.
@@ -47,9 +45,7 @@ Responsibilities:
 - Created Java scripts to load the data into a database and parse JSON. I utilized Spring MVC and dependency injection to handle display and business logic.
 - Added server-side support for the Data Tables plugin to display massive data from databases in HTML tables, the ability to change passwords by email, and the ability to provide rights for users and groups.
 - Set up the Spring JPA Repository for the application's persistence layer, which interfaces with the Oracle DB application database. developed REST-based services extensively and used them as needed.
-Client: COGNIZANT TECHNOLOGY SOLUTIONS                                                                     
-        Jan 2019 - Dec 2019                                                
-Role: Software Developer
+Client: COGNIZANT TECHNOLOGY SOLUTIONS                                                                                       Role: Software Developer
 Responsibilities:
 - Create a tool for site reliability engineering. Utilized technologies include Angularv12, Spring Boot, InfluxQL, and SQL.
 - Using the Flask framework, I created REST APIs to obtain real-time data from the NoSQL database InfluxDB, which resulted in a 45% reduction in data retrieval time. 
@@ -60,7 +56,6 @@ Responsibilities:
 - A front-end application's software version was upgraded from Angularv6 to Angularv14. 
 - CSS was changed to SASS to optimize the code. 
 Client: WIPRO- Chennai, Tamil Nadu, India                                                                             
-        May 2018-Dec 2018
 Role: Full Stack Intern
 Responsibilities:
 - Created a web application from the ground up and received training in full-stack web development.
