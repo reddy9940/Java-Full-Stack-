@@ -12,11 +12,8 @@
 - Created a to-do list app with React.js that allows users to add, modify, and delete tasks. State management was implemented, and React components were used to render UIs efficiently.
 - Using React.js, I created a responsive picture gallery that displays photos in a grid layout after obtaining data from an API. Implemented a search capability that filters photographs depending on user input.
            I am eager to use my technological expertise to further innovation and success in your company.
-
 ### Professional Experience
-Client: Synchrony Financials     	                                                                                 
-Role: Java Full Stack Developer
-Responsibilities:
+### Java Full Stack Developer @  Synchrony Financials  
 - Developing Java-based applications using best practices and coding standards, including APIs, services, and microservices.
 - Creating responsive web apps with CSS frameworks for multiple devices and screen sizes. 
 -  Managed and executed database migration from Oracle to MySQL, including planning, testing, and implementing techniques to maintain data integrity and minimize downtime. 
@@ -26,9 +23,7 @@ Responsibilities:
 - Managed codebases using Git and collaborated with other developers. Using Git to manage codebases and work with developers.
 - Optimizing apps for performance, scalability, and responsiveness, including SQL queries and Java code. 
 - Implemented Spring JPA Repository for the application's persistence layer, which connects with the Oracle database extensive experience designing REST-based web services and consuming them as needed.
-Client: Nationwide                                                                                                           
-Role: Full Stack Java Developer
-Responsibilities:
+### Full Stack Java Developer @ Nationwide
 - Created and maintained an online and mobile application for a US healthcare customer. The technologies employed were Angular 14, Ionic 5, and Spring Boot. 
 - Creating new user interfaces and improving current features to meet changing business and consumer needs. 
 - Developed and deployed 10+ responsive UI/UX prototypes, cross-browser compatible interfaces, user-friendly forms, and a reusable Angular SDK, resulting in a 20% increase in development efficiency and rigorous code testing. 
@@ -37,16 +32,13 @@ Responsibilities:
 - Fixed vulnerabilities found in Verizon and Veracode security assessments. 
 - Served as the release coordinator for several complete production releases. 
 - Peer code reviews of modifications were carried out to guarantee high-quality code. 
-Client:TCS Health Care Project                                                                                               
-Role: System Engineer
-Responsibilities:
+### System Engineer @ TCS Health Care Project                                                                                
 - Engaged in the requirements gathering, analysis, design, development, and testing phases of the software development life cycle (SDLC) for applications created with the Agile approach.
 - The back end of the web application was developed using Java and the Spring Boot Framework in conjunction with a RESTful API. 
 - Created Java scripts to load the data into a database and parse JSON. I utilized Spring MVC and dependency injection to handle display and business logic.
 - Added server-side support for the Data Tables plugin to display massive data from databases in HTML tables, the ability to change passwords by email, and the ability to provide rights for users and groups.
 - Set up the Spring JPA Repository for the application's persistence layer, which interfaces with the Oracle DB application database. developed REST-based services extensively and used them as needed.
-Client: COGNIZANT TECHNOLOGY SOLUTIONS                                                                                       Role: Software Developer
-Responsibilities:
+### Software Developer @ COGNIZANT TECHNOLOGY SOLUTIONS                                                                     
 - Create a tool for site reliability engineering. Utilized technologies include Angularv12, Spring Boot, InfluxQL, and SQL.
 - Using the Flask framework, I created REST APIs to obtain real-time data from the NoSQL database InfluxDB, which resulted in a 45% reduction in data retrieval time. 
 - To manage data from Oracle using Spring JPA, the Spring Boot framework was implemented. 
@@ -55,15 +47,12 @@ Responsibilities:
 - Migration of member service portal: Technologies utilized: CSS to SASS, Angular v6 to v14 
 - A front-end application's software version was upgraded from Angularv6 to Angularv14. 
 - CSS was changed to SASS to optimize the code. 
-Client: WIPRO- Chennai, Tamil Nadu, India                                                                             
-Role: Full Stack Intern
-Responsibilities:
+### Full Stack Intern @ WIPRO- Chennai, Tamil Nadu, India                                                                   
 - Created a web application from the ground up and received training in full-stack web development.
 - Collaborated with cross-functional teams to support and implement new features, guaranteeing consistent and accurate financial postings.
 -  Used Jenkins to develop automation jobs that simplified manual data retrieval operations from the database.
 -  Collaborated with developers, product managers, and team leaders to create and build new front-end features.
 -  Developed data flows from checkout to MMC store-based applications using SVN to meet client needs
-
 ### Technical Skills
 - Methodologies: Software development life cycle (SDLC), Agile development, Object-oriented design (OOD), test-driven development (TDD), Domain-driven design (DDD)
 - Programming Languages: Java, JavaScript, C++, SQL, Shell Scripting
