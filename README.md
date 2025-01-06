@@ -1,6 +1,6 @@
-### Java Full Stack Developer
-### Profesional Summary
-### Technical Skills
-### Profesional Experience
-### Certifications
+# Java Full Stack Developer
 ### Education
+### Professional Summary
+### Professional Experience
+### Technical Skills
+### Certifications
