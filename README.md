@@ -70,5 +70,6 @@
 - Design Patterns and Architectural Styles: Adapter, Microservices, Service-Oriented (SOA), Model-View-Controller (MVC), Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS)
 - Web Services: API Design, Web Services Description Language (WSDL), SOAP security, WebSocket, gRPC
 - Other: Reactive programming, VSCode, XML, Appflow, Gradle, POSTMAN
+- 
 
 
