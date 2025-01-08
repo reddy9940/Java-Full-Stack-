@@ -32,7 +32,7 @@
 - Fixed vulnerabilities found in Verizon and Veracode security assessments. 
 - Served as the release coordinator for several complete production releases. 
 - Peer code reviews of modifications were carried out to guarantee high-quality code. 
-### System Engineer @ TCS Health Care Project                                                                                
+### System Engineer @ TCS Health Care                                                                                
 - Engaged in the requirements gathering, analysis, design, development, and testing phases of the software development life cycle (SDLC) for applications created with the Agile approach.
 - The back end of the web application was developed using Java and the Spring Boot Framework in conjunction with a RESTful API. 
 - Created Java scripts to load the data into a database and parse JSON. I utilized Spring MVC and dependency injection to handle display and business logic.
@@ -70,7 +70,5 @@
 - Design Patterns and Architectural Styles: Adapter, Microservices, Service-Oriented (SOA), Model-View-Controller (MVC), Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS)
 - Web Services: API Design, Web Services Description Language (WSDL), SOAP security, WebSocket, gRPC
 - Other: Reactive programming, VSCode, XML, Appflow, Gradle, POSTMAN
-### Certifications
-- Oracle Certified Associate, Java SE 8 Programmer (OCA)
-- AWS Certified Solutions Architect - Associate
+
 
