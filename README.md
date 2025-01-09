@@ -13,7 +13,7 @@
 - Using React.js, I created a responsive picture gallery that displays photos in a grid layout after obtaining data from an API. Implemented a search capability that filters photographs depending on user input.
            I am eager to use my technological expertise to further innovation and success in your company.
 ### Professional Experience
-### Java Full Stack Developer @  Synchrony Financials  
+### Java Full Stack Developer @  Capital One 
 - Developing Java-based applications using best practices and coding standards, including APIs, services, and microservices.
 - Creating responsive web apps with CSS frameworks for multiple devices and screen sizes. 
 -  Managed and executed database migration from Oracle to MySQL, including planning, testing, and implementing techniques to maintain data integrity and minimize downtime. 
@@ -23,7 +23,7 @@
 - Managed codebases using Git and collaborated with other developers. Using Git to manage codebases and work with developers.
 - Optimizing apps for performance, scalability, and responsiveness, including SQL queries and Java code. 
 - Implemented Spring JPA Repository for the application's persistence layer, which connects with the Oracle database extensive experience designing REST-based web services and consuming them as needed.
-### Full Stack Java Developer @ Nationwide
+### Full Stack Java Developer @ Synchrony Financials
 - Created and maintained an online and mobile application for a US healthcare customer. The technologies employed were Angular 14, Ionic 5, and Spring Boot. 
 - Creating new user interfaces and improving current features to meet changing business and consumer needs. 
 - Developed and deployed 10+ responsive UI/UX prototypes, cross-browser compatible interfaces, user-friendly forms, and a reusable Angular SDK, resulting in a 20% increase in development efficiency and rigorous code testing. 
