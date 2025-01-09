@@ -3,7 +3,7 @@
 - Master’s in Computer Science | Wright State University in Dayton, OH, USA
 - Bachelor’s in Computer Science and Engineering | Saveetha Engineering College, Chennai, Tamil Nadu, India
 ### Professional Summary
-- Over 6 years of expertise in the analysis, design, implementation, and testing of business online applications using Java/J2EE technology with a focus on Java8, Angular (v6–v14), Ionic5, and Spring Boot. Acknowledged for having excellent project management abilities and producing top-notch mobile and online applications.
+- Over 7 years of expertise in the analysis, design, implementation, and testing of business online applications using Java/J2EE technology with a focus on Java8, Angular (v6–v14), Ionic5, and Spring Boot. Acknowledged for having excellent project management abilities and producing top-notch mobile and online applications.
 - Experience with Microservices and J2EE technologies such as Spring Boot, Spring Web Framework, Servlets, Hibernate, Web Services, and Gradle. Proficient in user interface design.
 - Created Front End with JSP, HTML5, CSS3, JavaScript, Ajax, and jQuery. Experience with fundamental Java, including multithreading, collections, Servlets, and JDBC. 
 - Experienced in setting up Kubernetes, clustering, and managing local deployments. Provided consistent deployment scalability and load balancing for applications from development to production.  
