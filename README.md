@@ -1,5 +1,5 @@
 # Reddy Vyshnavi Nagireddypalli - Portfolio
-![Reddy Vyshnavi Nagireddypalli](/images/photo.PNG)
+![Reddy Vyshnavi Nagireddypalli](/image/Vyshu2.png)
 Welcome to my GitHub portfolio! This repository highlights my professional journey, technical expertise, and the projects I've worked on as a **Java Full Stack Developer** with 7 years of experience.
 
 ---
