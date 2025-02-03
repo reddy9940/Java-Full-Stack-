@@ -83,7 +83,7 @@ Hi! I'm Reddy Vyshnavi Nagireddypalli, a dedicated and passionate developer spec
 ## 📫 Get in Touch
 
 - **Email:** vreddyvyshnavi1999@gmail.com  
-- **Phone:** 513-428-9460  
+- **Phone:** 9376978577
 - **LinkedIn:** [Reddy Vyshnavi](https://linkedin.com/in/Reddy-Vyshnavi)
 
 ---
